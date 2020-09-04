@@ -26,7 +26,7 @@
     "bootstrap-webpack": "0.0.3",
     "file-loader": "^0.8.4",
     "object-assign": "^4.0.1",
-    "react": "^0.13.3",
+    "react": "^16.13.1",
     "url-loader": "^0.5.6"
   }
 }
